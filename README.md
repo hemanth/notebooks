@@ -7,3 +7,4 @@
 * [Google Gemini Vision Pro with Langchian](./notebooks/Google_Gemini_Vision_Pro_Langchain.ipynb)
 * [YouTube Query Langchain](./notebooks/YouTube_Query_Langchain.ipynb)
 * [Embedchain and Huggingface](./notebooks/embedchain_hugging_face.ipynb)
+* [Langchain experimental SQLDatabaseChain](./notebooks/langchain_experimental_SQLDatabaseChain.ipynb)
