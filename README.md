@@ -8,3 +8,4 @@
 * [YouTube Query Langchain](./notebooks/YouTube_Query_Langchain.ipynb)
 * [Embedchain and Huggingface](./notebooks/embedchain_hugging_face.ipynb)
 * [Langchain experimental SQLDatabaseChain](./notebooks/langchain_experimental_SQLDatabaseChain.ipynb)
+* [Google Gemimi Pro 1.5](./notebooks/Google_Gemini_Pro_1.5.ipynb)
