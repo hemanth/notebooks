@@ -18,6 +18,7 @@
 - [rag-gemma-langchain](./notebooks/rag-gemma-langchain.ipynb) - RAG with Gemma and Langchain
 
 ### RAG & Retrieval
+- [piragi-rag](./notebooks/piragi-rag.ipynb) - Comprehensive RAG with piragi - zero-config, multi-source, knowledge graphs
 - [phidata-agentic-rag-ollama](./notebooks/phidata-agentic-rag-ollama.ipynb) - Phidata Agentic RAG with Ollama
 - [query_pdf_url_langchain_gemini_pro](./notebooks/query_pdf_url_langchain_gemini_pro.ipynb) - Query PDF URL using Langchain and Gemini Pro
 - [llama_parse_gemini_pro](./notebooks/llama_parse_gemini_pro.ipynb) - Parsing documents with Llama Parse and Gemini Pro
