@@ -2,62 +2,62 @@
 > Notebooks on ML AI experiments
 
 ### Google Gemini Experiments
-- [Google Gemini Code Execution](./notebooks/Google_Gemini_Code_Execution.ipynb) - Code execution using Google Gemini
-- [Google Gemini Document Processing](./notebooks/Google_Gemini_Document_Processing.ipynb) - Document processing with Google Gemini
-- [Google Gemini Pro 1.5](./notebooks/Google_Gemini_Pro_1.5.ipynb) - Google Gemini Pro version 1.5 features
-- [Google Gemini Pro Langchain](./notebooks/Google_Gemini_Pro_Langchain.ipynb) - Google Gemini Pro integration with Langchain
-- [Google Gemini System Instruction](./notebooks/Google_Gemini_System_Instruction.ipynb) - Instructions for working with Google Gemini system
-- [Google Gemini Vision Pro Langchain](./notebooks/Google_Gemini_Vision_Pro_Langchain.ipynb) - Integrating Google Gemini Vision Pro with Langchain
-- [Google Gemini Vision Pro LlamaIndex](./notebooks/Google_Gemini_Vision_Pro_LlamaIndex.ipynb) - Combining Google Gemini Vision Pro with LlamaIndex
-- [context-caching-gemini](./notebooks/context-caching-gemini.ipynb) - Exploring context caching in Gemini
+- [Google Gemini Code Execution](./notebooks/Google_Gemini_Code_Execution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Code_Execution.ipynb)
+- [Google Gemini Document Processing](./notebooks/Google_Gemini_Document_Processing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Document_Processing.ipynb)
+- [Google Gemini Pro 1.5](./notebooks/Google_Gemini_Pro_1.5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Pro_1.5.ipynb)
+- [Google Gemini Pro Langchain](./notebooks/Google_Gemini_Pro_Langchain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Pro_Langchain.ipynb)
+- [Google Gemini System Instruction](./notebooks/Google_Gemini_System_Instruction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_System_Instruction.ipynb)
+- [Google Gemini Vision Pro Langchain](./notebooks/Google_Gemini_Vision_Pro_Langchain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Vision_Pro_Langchain.ipynb)
+- [Google Gemini Vision Pro LlamaIndex](./notebooks/Google_Gemini_Vision_Pro_LlamaIndex.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Google_Gemini_Vision_Pro_LlamaIndex.ipynb)
+- [context-caching-gemini](./notebooks/context-caching-gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/context-caching-gemini.ipynb)
 
 ### Gemma Models
-- [PaliGemma](./notebooks/PaliGemma.ipynb) - Work on the PaliGemma vision-language model
-- [embeddinggemma-300m](./notebooks/embeddinggemma-300m.ipynb) - Embedding model experiments with Gemma
-- [gemma3-test](./notebooks/gemma3-test.ipynb) - Testing Gemma 3 model capabilities
-- [rag-gemma-langchain](./notebooks/rag-gemma-langchain.ipynb) - RAG with Gemma and Langchain
+- [PaliGemma](./notebooks/PaliGemma.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/PaliGemma.ipynb)
+- [embeddinggemma-300m](./notebooks/embeddinggemma-300m.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/embeddinggemma-300m.ipynb)
+- [gemma3-test](./notebooks/gemma3-test.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/gemma3-test.ipynb)
+- [rag-gemma-langchain](./notebooks/rag-gemma-langchain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/rag-gemma-langchain.ipynb)
 
 ### RAG & Retrieval
-- [piragi-rag](./notebooks/piragi-rag.ipynb) - Comprehensive RAG with piragi - zero-config, multi-source, knowledge graphs
-- [phidata-agentic-rag-ollama](./notebooks/phidata-agentic-rag-ollama.ipynb) - Phidata Agentic RAG with Ollama
-- [query_pdf_url_langchain_gemini_pro](./notebooks/query_pdf_url_langchain_gemini_pro.ipynb) - Query PDF URL using Langchain and Gemini Pro
-- [llama_parse_gemini_pro](./notebooks/llama_parse_gemini_pro.ipynb) - Parsing documents with Llama Parse and Gemini Pro
-- [speculative_rag](./notebooks/speculative_rag.ipynb) - Speculative RAG techniques
+- [piragi-rag](./notebooks/piragi-rag.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/piragi-rag.ipynb)
+- [phidata-agentic-rag-ollama](./notebooks/phidata-agentic-rag-ollama.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/phidata-agentic-rag-ollama.ipynb)
+- [query_pdf_url_langchain_gemini_pro](./notebooks/query_pdf_url_langchain_gemini_pro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/query_pdf_url_langchain_gemini_pro.ipynb)
+- [llama_parse_gemini_pro](./notebooks/llama_parse_gemini_pro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/llama_parse_gemini_pro.ipynb)
+- [speculative_rag](./notebooks/speculative_rag.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/speculative_rag.ipynb)
 
 ### YouTube & Video
-- [YouTube Query Langchain](./notebooks/YouTube_Query_Langchain.ipynb) - Querying YouTube data using Langchain
-- [Youtube Query LlamaIndex Gemini](./notebooks/Youtube_Query_LlamaIndex_Gemini.ipynb) - Querying YouTube with LlamaIndex and Gemini
+- [YouTube Query Langchain](./notebooks/YouTube_Query_Langchain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/YouTube_Query_Langchain.ipynb)
+- [Youtube Query LlamaIndex Gemini](./notebooks/Youtube_Query_LlamaIndex_Gemini.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/Youtube_Query_LlamaIndex_Gemini.ipynb)
 
 ### Langchain Integration
-- [langchain_experimental_SQLDatabaseChain](./notebooks/langchain_experimental_SQLDatabaseChain.ipynb) - Experimenting with SQL Database Chain in Langchain
-- [langchain_ollamafunctions_create_extraction_chain](./notebooks/langchain_ollamafunctions_create_extraction_chain.ipynb) - Creating extraction chains with Langchain and Ollama functions
+- [langchain_experimental_SQLDatabaseChain](./notebooks/langchain_experimental_SQLDatabaseChain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/langchain_experimental_SQLDatabaseChain.ipynb)
+- [langchain_ollamafunctions_create_extraction_chain](./notebooks/langchain_ollamafunctions_create_extraction_chain.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/langchain_ollamafunctions_create_extraction_chain.ipynb)
 
 ### Ollama & Local Models
-- [ollama_structured_outputs](./notebooks/ollama_structured_outputs.ipynb) - Structured outputs in Ollama
-- [groq](./notebooks/groq.ipynb) - Intro to Groq inference
+- [ollama_structured_outputs](./notebooks/ollama_structured_outputs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/ollama_structured_outputs.ipynb)
+- [groq](./notebooks/groq.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/groq.ipynb)
 
 ### Embeddings & Chains
-- [embedchain_hugging_face](./notebooks/embedchain_hugging_face.ipynb) - Embedding chain with Hugging Face integration
-- [HF_InferenceClient](./notebooks/HF_InferenceClient.ipynb) - Hugging Face Inference Client experiments
+- [embedchain_hugging_face](./notebooks/embedchain_hugging_face.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/embedchain_hugging_face.ipynb)
+- [HF_InferenceClient](./notebooks/HF_InferenceClient.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/HF_InferenceClient.ipynb)
 
 ### AI Agents & Workflows
-- [crewai_code_review_agents](./notebooks/crewai_code_review_agents.ipynb) - Code review agents using CrewAI
-- [smolagents](./notebooks/smolagents.ipynb) - Small, efficient AI agents
+- [crewai_code_review_agents](./notebooks/crewai_code_review_agents.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/crewai_code_review_agents.ipynb)
+- [smolagents](./notebooks/smolagents.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/smolagents.ipynb)
 
 ### Reasoning & Refinement
-- [deepseek_reasoning](./notebooks/deepseek_reasoning.ipynb) - DeepSeek reasoning model experiments
-- [self-refine](./notebooks/self-refine.ipynb) - Self-refinement process in machine learning models
+- [deepseek_reasoning](./notebooks/deepseek_reasoning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/deepseek_reasoning.ipynb)
+- [self-refine](./notebooks/self-refine.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/self-refine.ipynb)
 
 ### Specialized Models
-- [BitNet](./notebooks/BitNet.ipynb) - BitNet 1-bit LLM implementation
-- [GaLore-exp](./notebooks/GaLore-exp.ipynb) - Memory-efficient LLM training with GaLore
-- [gpt_oss](./notebooks/gpt_oss.ipynb) - Open source GPT experiments
+- [BitNet](./notebooks/BitNet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/BitNet.ipynb)
+- [GaLore-exp](./notebooks/GaLore-exp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/GaLore-exp.ipynb)
+- [gpt_oss](./notebooks/gpt_oss.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/gpt_oss.ipynb)
 
 ### Audio & Speech
-- [kitten_tts](./notebooks/kitten_tts.ipynb) - Kitten TTS text-to-speech experiments
-- [parler-tts-kannada](./notebooks/parler-tts-kannada.ipynb) - Parler TTS for Kannada language
+- [kitten_tts](./notebooks/kitten_tts.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/kitten_tts.ipynb)
+- [parler-tts-kannada](./notebooks/parler-tts-kannada.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/parler-tts-kannada.ipynb)
 
 ### Utilities & Tools
-- [lamini-json](./notebooks/lamini-json.ipynb) - Working with JSON in Lamini
-- [resume2json](./notebooks/resume2json.ipynb) - Convert resumes to structured JSON
-- [rmbg](./notebooks/rmbg.ipynb) - Background removal experiments
+- [lamini-json](./notebooks/lamini-json.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/lamini-json.ipynb)
+- [resume2json](./notebooks/resume2json.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/resume2json.ipynb)
+- [rmbg](./notebooks/rmbg.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hemanth/notebooks/blob/main/notebooks/rmbg.ipynb)
