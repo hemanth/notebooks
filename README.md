@@ -15,6 +15,7 @@
 - [PaliGemma](./notebooks/PaliGemma.ipynb) - Work on the PaliGemma vision-language model
 - [embeddinggemma-300m](./notebooks/embeddinggemma-300m.ipynb) - Embedding model experiments with Gemma
 - [gemma3-test](./notebooks/gemma3-test.ipynb) - Testing Gemma 3 model capabilities
+- [functiongemma-xkcd-finetune](./notebooks/functiongemma_xkcd_finetune.ipynb) - Fine-tune FunctionGemma for XKCD comic search using Unsloth
 - [rag-gemma-langchain](./notebooks/rag-gemma-langchain.ipynb) - RAG with Gemma and Langchain
 
 ### RAG & Retrieval
